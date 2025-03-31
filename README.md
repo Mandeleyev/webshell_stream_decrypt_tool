@@ -16,4 +16,4 @@ pip install pycryptodome
 
 示例：
 
-![example](README\example.jpg)
+![example](example.jpg)
